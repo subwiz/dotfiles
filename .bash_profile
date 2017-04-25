@@ -1,4 +1,4 @@
 export HISTCONTROL=ignorespace
 
-export GOPATH=$HOME/work
+export GOPATH=$HOME/goworkspace
 export PATH=$PATH:$GOPATH/bin
